@@ -12,8 +12,11 @@
   "dependencies": {
     "@types/react": "^16.0.38",
     "@types/react-dom": "^16.0.4",
+    "atob": "^2.1.2",
+    "randomatic": "^3.1.1",
     "react": "^16.2.0",
-    "react-dom": "^16.2.0"
+    "react-dom": "^16.2.0",
+    "url-parse": "^1.4.3"
   },
   "devDependencies": {
     "awesome-typescript-loader": "^3.4.1",
